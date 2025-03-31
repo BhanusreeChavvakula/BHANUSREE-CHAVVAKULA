@@ -8,12 +8,59 @@ I am a passionate **Business Analyst & Data Enthusiast** with a strong backgroun
 🔹 Machine Learning & AI enthusiast with a focus on **Predictive Analytics & Gen AI**  
 🔹 Passionate about **data-driven decision-making and digital transformation**
 
+**💼 Experience**
+
+
+**Business Analyst** | **UMRF Ventures** | Jul 2024 - Present
+
+🚀 Spearheaded JIRA & Confluence adoption, increasing sprint efficiency by 25%.
+
+🚀 Extracted, cleaned, and analyzed large datasets using SQL, Python, and Excel.
+
+🚀 Developed user stories, process flows, and BRDs for Agile and Waterfall projects.
+
+🚀 Optimized dashboard enhancements based on stakeholder feedback using Power BI.
+
+
+**Business Analyst** | **Itniche** | Aug 2023 - Feb 2024
+
+📊 Conducted EDA on large datasets, uncovering actionable insights.
+
+📊 Developed interactive Power BI dashboards, aiding data-driven decision-making.
+
+📊 Implemented structured Waterfall-driven research documentation.
+
+📊 Assisted in writing epics, user stories, and data flow diagrams for healthcare analytics.
+
+
+**Business Analyst** | **Infelearn** | Jul 2020 - Aug 2022
+
+✅ Integrated third-party data sources into centralized data warehouses.
+
+✅ Conducted Agile-driven research and iterative data analysis.
+
+✅ Analyzed hiring trends, improving recruitment efficiency.
+
+✅ Led stakeholder meetings to define and prioritize business needs.
+
+
+**Marketing Analyst** | **Reliance Industries** | Jan 2020 - May 2020
+
+📈Developed Power BI dashboards to enhance HR data visualization.
+
+📈 Automated ETL processes using Azure Data Factory.
+
+📈 Optimized marketing campaign ROI by 20% through data-driven insights.
+
+📈 Streamlined marketing data operations with secure Azure Blob Storage.
+
 ## 🔧 Technical Skills
-**Programming:** Python, SQL, HTML, SAS  
-**Data Analytics:** Power BI, Tableau, Advanced Excel, RDBMS  
-**Project Management:** Agile, Scrum, Kanban, Trello, Jira, GRID  
-**ML & AI:** Neural Networks, Time Series Forecasting, Model Evaluation  
-**Data Governance:** Data Security Compliance, Pipeline Optimization  
+
+💻 Programming: Python, SQL, HTML, SAS
+📊 Data Analytics: Power BI, Tableau, Advanced Excel, RDBMS
+📌 Project Management: Agile, Scrum, Kanban, Jira, Confluence
+🤖 ML & AI: Neural Networks, Time Series Forecasting, Model Evaluation
+🔐 Data Governance: Data Security Compliance, Pipeline Optimization 
 
 ## 💡 Featured Projects
 🚑 **Patient Risk Prediction using ML**  
