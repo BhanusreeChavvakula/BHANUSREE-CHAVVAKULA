@@ -58,6 +58,8 @@ I am a passionate **Business Analyst & Data Enthusiast** with a strong backgroun
 
 💻 Programming: Python, SQL, HTML, SAS
 
+📝 Business Analysis: Requirements Gathering, Documentation, Business Process Analysis, Functional Specifications, User Stories, Stakeholder Communication
+
 📊 Data Analytics: Power BI, Tableau, Advanced Excel, RDBMS
 
 📌 Project Management: Agile, Scrum, Kanban, Jira, Confluence
