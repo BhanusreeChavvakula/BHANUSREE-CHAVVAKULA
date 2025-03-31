@@ -1,52 +1,55 @@
-# Hi, I'm BhanuSree Chavvakula 👋  
+# Hi there! 👋 I'm Bhanusree Chavvakula
 
-🚀 **Data Analyst | Data Engineer | Machine Learning Enthusiast**  
-📍 **Memphis, TN**  
-📧 **bhanusreechavvakula@gmail.com**  
-🔗 **[LinkedIn](https://linkedin.com/in/bhanusreech)**  
+## 🚀 About Me
+I am a passionate **Business Analyst & Data Enthusiast** with a strong background in **data analysis, business process optimization, and AI-driven insights**. With experience spanning across industries like **healthcare, logistics, and marketing**, I specialize in transforming raw data into actionable strategies.
 
-## 🔹 About Me  
-I am a **Data Analyst and Data Engineer** with expertise in **ETL pipelines, data visualization, and machine learning** to solve complex business challenges. Passionate about transforming raw data into actionable insights, optimizing workflows, and automating processes.  
+🔹 Expertise in **Power BI, SQL, Python, Tableau, and ETL**  
+🔹 Skilled in **Agile, Scrum, Waterfall, Jira, and Confluence**  
+🔹 Machine Learning & AI enthusiast with a focus on **Predictive Analytics & Gen AI**  
+🔹 Passionate about **data-driven decision-making and digital transformation**
 
-✅ **Skills & Expertise:**  
-- **Programming:** Python, SQL, R  
-- **Data Visualization:** Power BI, Tableau, Looker  
-- **Big Data & Cloud:** Azure (Blob Storage, Data Factory), AWS (S3, QuickSight)  
-- **ETL & Data Engineering:** SSIS, Informatica, Apache NiFi  
-- **Machine Learning:** Supervised & Unsupervised Learning, Neural Networks, Time Series Forecasting  
-- **Project Management:** Agile, Scrum, Jira  
+## 🔧 Technical Skills
+**Programming:** Python, SQL, HTML, SAS  
+**Data Analytics:** Power BI, Tableau, Advanced Excel, RDBMS  
+**Project Management:** Agile, Scrum, Kanban, Trello, Jira, GRID  
+**ML & AI:** Neural Networks, Time Series Forecasting, Model Evaluation  
+**Data Governance:** Data Security Compliance, Pipeline Optimization  
 
-🎓 **Master’s in Information Systems** – University of Memphis  
-🎖 **Certifications:**  
-- **AWS Certified Data Analytics – AWS (2025)**  
-- **Microsoft Power BI Data Analyst Associate (2024)**  
-- **Azure Fundamentals – Microsoft (2024)**  
+## 💡 Featured Projects
+🚑 **Patient Risk Prediction using ML**  
+> Developed a **Random Forest & Logistic Regression** model with **85% accuracy** for predicting patient risk, utilizing **SQL, Python, and Power BI** to derive actionable insights.  
 
----
+🚚 **Transportation Optimization System**  
+> Designed an AI-powered **logistics optimization** system, improving delivery efficiency by **25%** through real-time analytics, IoT integration, and route optimization.  
 
-## 📊 My Data Projects  
+📊 **Car Insurance Claims Analysis**  
+> Built a **fraud detection model** using **SAS & Python** to analyze historical **insurance claims data**.  
+Improved claims processing efficiency and identified high-risk profiles.  Built predictive models using **SAS & Python**, achieving **85% accuracy** in claim prediction, while visualizing trends in **Tableau**.
 
-### 🚀 ETL Pipeline with Azure Data Factory  
-🔹 Developed an **end-to-end ETL pipeline** using **Azure Data Factory, SQL, and Python** for efficient data integration.  
-🔹 Automated data extraction, transformation, and loading to reduce processing time by **40%**.  
+🚀 **ETL Pipeline with Azure Data Factory**
+> Developed an **end-to-end ETL pipeline** using **Azure Data Factory, SQL, and Python** for efficient data integration.  
+Automated data extraction, transformation, and loading to reduce processing time by **40%**.  
 
-### 📊 Supply Chain Analytics Dashboard  
-🔹 Built **interactive Power BI dashboards** to monitor key **supply chain metrics** and optimize inventory management.  
-🔹 Improved reporting accuracy and business insights through **automated data standardization**.  
+ 📊 **Supply Chain Analytics Dashboard**  
+>Built **interactive Power BI dashboards** to monitor key **supply chain metrics** and optimize inventory management.  
+Improved reporting accuracy and business insights through **automated data standardization**.  
 
-### 🤖 Machine Learning for Predictive Analytics  
-🔹 Created **predictive models** for **sales forecasting, customer churn, and demand planning** using **Python (Scikit-learn, TensorFlow)**.  
-🔹 Achieved an **85% accuracy rate** in predicting business trends.  
+🤖 **Machine Learning for Predictive Analytics**  
+>Created **predictive models** for **sales forecasting, customer churn, and demand planning** using **Python (Scikit-learn, TensorFlow)**.  
+Achieved an **85% accuracy rate** in predicting business trends.  
 
-### 🚛 Transportation Optimization System  
-🔹 Designed an **AI-powered logistics system** using **real-time analytics** to optimize route planning and delivery scheduling.  
-🔹 Reduced transportation costs by **25%** through **load balancing and predictive analytics**.  
+## 🎯 Certifications
+🏆 **AWS Certified Data Analytics** (Feb 2025)  
+🏆 **Power BI Data Analyst Associate - Microsoft** (Jun 2024)  
+🏆 **Advanced SQL - HackerRank** (Mar 2025)  
+🏆 **Jira & Business Project Management - Coursera** (2024)  
 
-### 🚗 Car Insurance Claims Analysis  
-🔹 Built a **fraud detection model** using **SAS & Python** to analyze historical **insurance claims data**.  
-🔹 Improved claims processing efficiency and identified high-risk profiles.  
+## 📫 Connect with Me
+📧 Email: [bhanusreechavvakula@gmail.com](mailto:bhanusreechavvakula@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/bhanusreech](https://linkedin.com/in/bhanusreech)  
+💻 GitHub: [github.com/BhanusreeChavvakula](https://github.com/BhanusreeChavvakula)  
 
----
+🚀 **Let's collaborate and create impactful data-driven solutions!**
 
 ## 🌱 What I'm Learning  
 🔸 **Advanced SQL Optimization** for Big Data processing  
