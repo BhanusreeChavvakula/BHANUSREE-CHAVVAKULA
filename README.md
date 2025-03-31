@@ -57,9 +57,13 @@ I am a passionate **Business Analyst & Data Enthusiast** with a strong backgroun
 ## 🔧 Technical Skills
 
 💻 Programming: Python, SQL, HTML, SAS
+
 📊 Data Analytics: Power BI, Tableau, Advanced Excel, RDBMS
+
 📌 Project Management: Agile, Scrum, Kanban, Jira, Confluence
+
 🤖 ML & AI: Neural Networks, Time Series Forecasting, Model Evaluation
+
 🔐 Data Governance: Data Security Compliance, Pipeline Optimization 
 
 ## 💡 Featured Projects
