@@ -1,73 +1,86 @@
-# Hi there! 👋 I'm Bhanusree Chavvakula
+# 👩‍💻 Bhanusree Chavvakula
 
-## 🚀 About Me
-I am a passionate **Business Analyst & Data Enthusiast** with a strong background in **data analysis, business process optimization, and AI-driven insights**. With experience spanning across industries like **healthcare, logistics, and marketing**, I specialize in transforming raw data into actionable strategies.
+**Data Analyst | Machine Learning Engineer | Cloud Enthusiast**
 
-🔹 Expertise in **Power BI, SQL, Python, Tableau, and ETL**  
-🔹 Skilled in **Agile, Scrum, Waterfall, Jira, and Confluence**  
-🔹 Machine Learning & AI enthusiast with a focus on **Predictive Analytics & Gen AI**  
-🔹 Passionate about **data-driven decision-making and digital transformation**
+📧 bhanusreechavvakula@gmail.com  
+📞 +1 (901) 210-8964  
+🔗 [LinkedIn: bhanusreech](https://www.linkedin.com/in/bhanusreech)  
 
-**💼 Experience**
+---
 
+## 💡 About Me
 
-**Business Analyst** | **UMRF Ventures** | Jul 2024 - Present
+I’m a Data Analyst and Machine Learning Engineer with a passion for solving business problems using data-driven solutions. With a strong foundation in data analysis, predictive modeling, and cloud computing, I have worked across industries such as healthcare, HR, and marketing.
 
-🚀 Spearheaded JIRA & Confluence adoption, increasing sprint efficiency by 25%.
+Certified in AWS Data Analytics, Power BI, and Azure Fundamentals, I specialize in:
+- Designing dashboards using Power BI & Tableau
+- Building ETL pipelines with PySpark, SQL, and Airflow
+- Deploying ML models using Azure ML & MLflow
+- Leveraging cloud tools like Azure & GCP for scalable analytics
 
-🚀 Extracted, cleaned, and analyzed large datasets using SQL, Python, and Excel.
+---
 
-🚀 Developed user stories, process flows, and BRDs for Agile and Waterfall projects.
+## 🧑‍💼 Work Experience
 
-🚀 Optimized dashboard enhancements based on stakeholder feedback using Power BI.
+### 💻 UMRF Ventures – Machine Learning Engineer  
+**Jul 2023 – Present**  
+- Created Streamlit and Tableau dashboards for compliance and KPI monitoring  
+- Built PySpark pipelines for automated data ingestion into Snowflake  
+- Deployed ML models (RF, SVM) in Azure ML to predict patient risks  
+- Supported regulatory reporting with ad-hoc analysis and visual storytelling
 
+---
 
-**Business Analyst** | **Itniche** | Aug 2023 - Feb 2024
+### 📊 Itniche – Data Analyst  
+**Aug 2023 – Feb 2024**  
+- Designed Tableau dashboards for regulatory and compliance insights  
+- Conducted correlation and causal analysis on product performance and risk  
+- Built SQL queries and Python scripts for HR compliance data validation  
 
-📊 Conducted EDA on large datasets, uncovering actionable insights.
+---
 
-📊 Developed interactive Power BI dashboards, aiding data-driven decision-making.
+### 🧠 University of Memphis – Student Research Assistant  
+**Dec 2022 – May 2023 | Memphis, TN**  
+- Built Power BI dashboards for healthcare policy effectiveness  
+- Conducted A/B tests and statistical modeling for operational improvements  
+- Created automated Excel reports and visual aids for academic publications
 
-📊 Implemented structured Waterfall-driven research documentation.
+---
 
-📊 Assisted in writing epics, user stories, and data flow diagrams for healthcare analytics.
+### 👥 Infelearn – Data Analyst (HR & Compliance Analytics)  
+**Jun 2021 – Aug 2021**
+- Analyzed employee engagement and compliance issues using SPSS & Excel  
+- Delivered Power BI reports that improved HR policy compliance by 15%  
+- Documented workflows and created audit-ready visual summaries
 
+---
 
-**Business Analyst** | **Infelearn** | Jul 2020 - Aug 2022
+### 📈 Reliance Industries – Marketing Analyst  
+**Jan 2020 – May 2020**
+- Monitored branding compliance of ad campaigns using Azure Logic Apps  
+- Designed Power BI reports to assess multi-channel marketing performance  
+- Identified compliance gaps in campaign execution strategy
 
-✅ Integrated third-party data sources into centralized data warehouses.
+---
 
-✅ Conducted Agile-driven research and iterative data analysis.
+## 🛠️ Technical Skills
 
-✅ Analyzed hiring trends, improving recruitment efficiency.
+**Languages & Tools:** Python, SQL, PySpark, R, SAS, PowerShell  
+**Visualization:** Power BI, Tableau, Excel, Looker, ArcGIS  
+**Cloud Platforms:** Azure, AWS, GCP  
+**Big Data:** Apache Spark, Hadoop, Kafka  
+**Data Tools:** Azure Data Factory, Airflow, Snowflake, MLflow  
+**ML & AI:** Regression, SVM, Random Forest, Forecasting, NLP  
+**Project Management:** Agile, Jira, Scrum, Kanban
 
-✅ Led stakeholder meetings to define and prioritize business needs.
+---
 
+## 🎓 Education
 
-**Marketing Analyst** | **Reliance Industries** | Jan 2020 - May 2020
+**Master’s in Information Systems**  
+_University of Memphis, 2024_
 
-📈Developed Power BI dashboards to enhance HR data visualization.
-
-📈 Automated ETL processes using Azure Data Factory.
-
-📈 Optimized marketing campaign ROI by 20% through data-driven insights.
-
-📈 Streamlined marketing data operations with secure Azure Blob Storage.
-
-## 🔧 Technical Skills
-
-💻 Programming: Python, SQL, HTML, SAS
-
-📝 Business Analysis: Requirements Gathering, Documentation, Business Process Analysis, Functional Specifications, User Stories, Stakeholder Communication
-
-📊 Data Analytics: Power BI, Tableau, Advanced Excel, RDBMS
-
-📌 Project Management: Agile, Scrum, Kanban, Jira, Confluence
-
-🤖 ML & AI: Neural Networks, Time Series Forecasting, Model Evaluation
-
-🔐 Data Governance: Data Security Compliance, Pipeline Optimization 
-
+---
 ## 💡 Featured Projects
 🚑 **Patient Risk Prediction using ML**  
 > Developed a **Random Forest & Logistic Regression** model with **85% accuracy** for predicting patient risk, utilizing **SQL, Python, and Power BI** to derive actionable insights.  
@@ -97,11 +110,6 @@ Achieved an **85% accuracy rate** in predicting business trends.
 🏆 **Advanced SQL - HackerRank** (Mar 2025)  
 🏆 **Jira & Business Project Management - Coursera** (2024)  
 
-## 📫 Connect with Me
-📧 Email: [bhanusreechavvakula@gmail.com](mailto:bhanusreechavvakula@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/bhanusreech](https://linkedin.com/in/bhanusreech)  
-💻 GitHub: [github.com/BhanusreeChavvakula](https://github.com/BhanusreeChavvakula)  
-
 🚀 **Let's collaborate and create impactful data-driven solutions!**
 
 ## 🌱 What I'm Learning  
@@ -109,6 +117,9 @@ Achieved an **85% accuracy rate** in predicting business trends.
 🔸 **Generative AI & LLMs** for Data Science applications  
 🔸 **AWS Data Engineering** for cloud-based analytics  
 
-💬 **Let's Connect!**  
-📩 **Email:** bhanusreechavvakula@gmail.com  
-📢 **LinkedIn:** [linkedin.com/in/bhanusreech](https://linkedin.com/in/bhanusreech)  
+## 📫 Connect with Me
+📧 Email: [bhanusreechavvakula@gmail.com](mailto:bhanusreechavvakula@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/bhanusreech](https://linkedin.com/in/bhanusreech)  
+💻 GitHub: [github.com/BhanusreeChavvakula](https://github.com/BhanusreeChavvakula)  
+
+
