@@ -1,125 +1,108 @@
 # 👩‍💻 Bhanusree Chavvakula
 
-**Data Analyst | Machine Learning Engineer | Cloud Enthusiast**
 
-📧 bhanusreechavvakula@gmail.com  
-📞 +1 (901) 210-8964  
-🔗 [LinkedIn: bhanusreech](https://www.linkedin.com/in/bhanusreech)  
-
----
-
-## 💡 About Me
-
-I’m a Data Analyst and Machine Learning Engineer with a passion for solving business problems using data-driven solutions. With a strong foundation in data analysis, predictive modeling, and cloud computing, I have worked across industries such as healthcare, HR, and marketing.
-
-Certified in AWS Data Analytics, Power BI, and Azure Fundamentals, I specialize in:
-- Designing dashboards using Power BI & Tableau
-- Building ETL pipelines with PySpark, SQL, and Airflow
-- Deploying ML models using Azure ML & MLflow
-- Leveraging cloud tools like Azure & GCP for scalable analytics
+🎯 **Business Analyst | Healthcare IT | Agile & Waterfall Expert**  
+📍 Based in the USA | 💼 Open to opportunities in Business Analysis & Healthcare Tech  
+📫 **Email:** bhanusreechavvakula@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bhanusreech) • [GitHub](https://github.com/BhanusreeChavvakula)
 
 ---
 
-## 🧑‍💼 Work Experience
+## 🚀 About Me
 
-### 💻 UMRF Ventures – Machine Learning Engineer  
-**Jul 2023 – Present**  
-- Created Streamlit and Tableau dashboards for compliance and KPI monitoring  
-- Built PySpark pipelines for automated data ingestion into Snowflake  
-- Deployed ML models (RF, SVM) in Azure ML to predict patient risks  
-- Supported regulatory reporting with ad-hoc analysis and visual storytelling
+I am an analytical and results-driven **Business Analyst** with a strong background in healthcare IT, data analytics, and project management. With hands-on experience in both Agile and Waterfall environments, I specialize in translating complex business needs into actionable, scalable, and compliant technology solutions.
 
 ---
 
-### 📊 Itniche – Data Analyst  
-**Aug 2023 – Feb 2024**  
-- Designed Tableau dashboards for regulatory and compliance insights  
-- Conducted correlation and causal analysis on product performance and risk  
-- Built SQL queries and Python scripts for HR compliance data validation  
+## 🧠 Core Competencies
+
+- **Business Analysis:** Requirements Gathering, Functional Specs, User Stories, Stakeholder Management  
+- **Healthcare Tech:** EMR, FHIR, HIPAA Compliance, Healthcare Data Governance  
+- **Project Tools:** Jira, Confluence, GRID, Trello, SDLC  
+- **Programming:** Python, SQL, SAS, HTML  
+- **Data Viz & BI:** Power BI, Tableau, Excel, DAX, Power Query  
+- **Data Ops:** ETL, RDBMS, Data Cleaning, KPI Design  
+- **Statistical Analysis:** A/B Testing, Hypothesis Testing, Regression  
 
 ---
 
-### 🧠 University of Memphis – Student Research Assistant  
-**Dec 2022 – May 2023 | Memphis, TN**  
-- Built Power BI dashboards for healthcare policy effectiveness  
-- Conducted A/B tests and statistical modeling for operational improvements  
-- Created automated Excel reports and visual aids for academic publications
+## 💼 Experience
 
----
+### 🔹 Methodist Health Care | *Business Analyst*  
+**Jul 2024 – Present**
+- Led FHIR and EMR integration initiatives, improving data exchange efficiency by 25%.
+- Ensured HIPAA compliance, reducing data privacy risks by 30%.
+- Managed Agile backlogs and sprint planning using GRID and Jira.
+- Supported healthcare data governance and Waterfall-based documentation processes.
 
-### 👥 Infelearn – Data Analyst (HR & Compliance Analytics)  
-**Jun 2021 – Aug 2021**
-- Analyzed employee engagement and compliance issues using SPSS & Excel  
-- Delivered Power BI reports that improved HR policy compliance by 15%  
-- Documented workflows and created audit-ready visual summaries
+### 🔹 Ascension Health | *Business Analyst*  
+**Aug 2023 – Feb 2024**
+- Facilitated scope and change management for IT projects.
+- Extracted and cleaned large datasets using SQL, Python, and Excel.
+- Improved sprint efficiency by 25% by standardizing Jira and Confluence workflows.
+- Developed user stories, BRDs, and interactive dashboards.
 
----
+### 🔹 University of Memphis | *Student Research Assistant*  
+**Dec 2022 – May 2023**
+- Built Power BI dashboards for research insights.
+- Conducted EDA and statistical analysis using Python and SQL.
+- Documented analytics workflows using Waterfall methodology.
 
-### 📈 Reliance Industries – Marketing Analyst  
+### 🔹 Infelearn | *Business Analyst*  
+**Jul 2020 – Aug 2022**
+- Integrated third-party data sources into centralized data warehouses.
+- Led stakeholder communication, risk mitigation, and requirements gathering.
+- Participated in solution testing, onboarding support, and compliance documentation.
+
+### 🔹 Reliance Industries | *Business Analyst*  
 **Jan 2020 – May 2020**
-- Monitored branding compliance of ad campaigns using Azure Logic Apps  
-- Designed Power BI reports to assess multi-channel marketing performance  
-- Identified compliance gaps in campaign execution strategy
+- Improved recruitment workflows using ATS data analysis.
+- Documented process flows and SOPs for system rollouts.
+- Utilized Visio, Excel, and Confluence for stakeholder collaboration.
 
 ---
 
-## 🛠️ Technical Skills
+## 📂 Featured Projects
 
-**Languages & Tools:** Python, SQL, PySpark, R, SAS, PowerShell  
-**Visualization:** Power BI, Tableau, Excel, Looker, ArcGIS  
-**Cloud Platforms:** Azure, AWS, GCP  
-**Big Data:** Apache Spark, Hadoop, Kafka  
-**Data Tools:** Azure Data Factory, Airflow, Snowflake, MLflow  
-**ML & AI:** Regression, SVM, Random Forest, Forecasting, NLP  
-**Project Management:** Agile, Jira, Scrum, Kanban
+### 🏥 Patient Risk Prediction (Feb 2024)
+- Built a predictive model using Random Forest & Logistic Regression.
+- Processed raw healthcare data with Python and SQL.
+- Delivered insights via Power BI to optimize treatment strategies.
+
+### 🚚 Transportation Optimization System (May 2024)
+- Designed a logistics platform with real-time route planning algorithms.
+- Reduced delivery time by 25% using IoT data integration.
+
+### 📊 Car Insurance Claim Prediction (Dec 2023)
+- Created predictive models with SAS and Python.
+- Visualized claim trends and drivers in Tableau.
+
+### 🏥 Healthcare Process Optimization (May 2024)
+- Balanced Agile sprints with Waterfall documentation using GRID.
+- Enhanced compliance tracking and iterative improvement.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**Master’s in Information Systems**  
-_University of Memphis, 2024_
+**Master of Science, Information Systems**  
+*University of Memphis (2022 – 2024)*  
+> GPA: 3.8 / 4.0
+
+**Certifications:**
+- Power BI Data Analyst Associate – Microsoft (2024)
+- AWS Certified Data Analytics – AWS (2025)
+- Advanced SQL – HackerRank (2025)
+- Jira – Coursera (2024)
+- Business Project Management – UofM (2024)
 
 ---
-## 💡 Featured Projects
-🚑 **Patient Risk Prediction using ML**  
-> Developed a **Random Forest & Logistic Regression** model with **85% accuracy** for predicting patient risk, utilizing **SQL, Python, and Power BI** to derive actionable insights.  
 
-🚚 **Transportation Optimization System**  
-> Designed an AI-powered **logistics optimization** system, improving delivery efficiency by **25%** through real-time analytics, IoT integration, and route optimization.  
+## 📈 Let's Collaborate
 
-📊 **Car Insurance Claims Analysis**  
-> Built a **fraud detection model** using **SAS & Python** to analyze historical **insurance claims data**.  
-Improved claims processing efficiency and identified high-risk profiles.  Built predictive models using **SAS & Python**, achieving **85% accuracy** in claim prediction, while visualizing trends in **Tableau**.
+If you're working on **data-driven solutions**, **healthcare platforms**, or need support with **business analysis for AI/analytics projects**, feel free to connect!
 
-🚀 **ETL Pipeline with Azure Data Factory**
-> Developed an **end-to-end ETL pipeline** using **Azure Data Factory, SQL, and Python** for efficient data integration.  
-Automated data extraction, transformation, and loading to reduce processing time by **40%**.  
-
- 📊 **Supply Chain Analytics Dashboard**  
->Built **interactive Power BI dashboards** to monitor key **supply chain metrics** and optimize inventory management.  
-Improved reporting accuracy and business insights through **automated data standardization**.  
-
-🤖 **Machine Learning for Predictive Analytics**  
->Created **predictive models** for **sales forecasting, customer churn, and demand planning** using **Python (Scikit-learn, TensorFlow)**.  
-Achieved an **85% accuracy rate** in predicting business trends.  
-
-## 🎯 Certifications
-🏆 **AWS Certified Data Analytics** (Feb 2025)  
-🏆 **Power BI Data Analyst Associate - Microsoft** (Jun 2024)  
-🏆 **Advanced SQL - HackerRank** (Mar 2025)  
-🏆 **Jira & Business Project Management - Coursera** (2024)  
-
-🚀 **Let's collaborate and create impactful data-driven solutions!**
-
-## 🌱 What I'm Learning  
-🔸 **Advanced SQL Optimization** for Big Data processing  
-🔸 **Generative AI & LLMs** for Data Science applications  
-🔸 **AWS Data Engineering** for cloud-based analytics  
-
-## 📫 Connect with Me
-📧 Email: [bhanusreechavvakula@gmail.com](mailto:bhanusreechavvakula@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/bhanusreech](https://linkedin.com/in/bhanusreech)  
-💻 GitHub: [github.com/BhanusreeChavvakula](https://github.com/BhanusreeChavvakula)  
-
+📬 **bhanusreechavvakula@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/bhanusreech)  
+🌐 [GitHub](https://github.com/BhanusreeChavvakula)
 
