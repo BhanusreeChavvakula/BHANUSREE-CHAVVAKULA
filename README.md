@@ -3,7 +3,7 @@
 
 🎯 **Business Analyst | Healthcare IT | Agile & Waterfall Expert**  
 📍 Based in the USA | 💼 Open to opportunities in Business Analysis & Healthcare Tech  
-📫 **Email:** bhanusreechavvakula@gmail.com  
+📫 **Email:** bchvvkla.com  
 🔗 [LinkedIn](https://linkedin.com/in/bhanusreech) • [GitHub](https://github.com/BhanusreeChavvakula)
 
 ---
@@ -28,7 +28,7 @@ I am an analytical and results-driven **Business Analyst** with a strong backgro
 
 ## 💼 Experience
 
-### 🔹 Methodist Health Care | *Business Analyst*  
+### 🔹 UMRF Ventures | *Business Analyst*  
 **Jul 2024 – Present**
 - Led FHIR and EMR integration initiatives, improving data exchange efficiency by 25%.
 - Ensured HIPAA compliance, reducing data privacy risks by 30%.
