@@ -102,7 +102,7 @@ I am an analytical and results-driven **Business Analyst** with a strong backgro
 
 If you're working on **data-driven solutions**, **healthcare platforms**, or need support with **business analysis for AI/analytics projects**, feel free to connect!
 
-📬 **bhanusreechavvakula@gmail.com**  
+📬 **bchvvkla@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/bhanusreech)  
 🌐 [GitHub](https://github.com/BhanusreeChavvakula)
 
