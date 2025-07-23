@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhanusree Chavvakula
 
-🎯 Associate Technical Project Manager | Business Analyst | AI + Analytics Enthusiast  
+🎯 Technical Project Co-ordinator | Business Analyst | AI + Analytics Enthusiast  
 📍 Based in USA 🇺🇸 | Actively seeking PM roles
 📧 bcvvkla@gmail.com | 📞 +91 7816020162 (IN) | 📞 +1 901-210-8964 (USA)  
 🔗 [LinkedIn](https://linkedin.com/in/bhanusreech) | 💻 [Portfolio Projects Below](#-highlight-projects)
@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a results-driven **Associate Technical Project Manager** with 4.5+ years of experience delivering end-to-end software and data projects across **healthcare, procurement, and AI-driven systems**. I bridge business needs and tech execution, managing cross-functional Agile teams, automating processes, and deploying insightful dashboards using Power BI, SQL, and Python.
+I’m a results-driven **Technical Project Co-ordinator** with 4.5+ years of experience delivering end-to-end software and data projects across **healthcare, procurement, and AI-driven systems**. I bridge business needs and tech execution, managing cross-functional Agile teams, automating processes, and deploying insightful dashboards using Power BI, SQL, and Python.
 
 My project leadership experience spans Jira, Confluence, Azure, ERP integrations, and machine learning models – all designed to create scalable, high-impact outcomes.
 
