@@ -1,108 +1,83 @@
-# 👩‍💻 Bhanusree Chavvakula
+# 👋 Hi, I'm Bhanusree Chavvakula
 
-
-🎯 **Business Analyst | Healthcare IT | Agile & Waterfall Expert**  
-📍 Based in the USA | 💼 Open to opportunities in Business Analysis & Healthcare Tech  
-📫 **Email:** bchvvkla.com  
-🔗 [LinkedIn](https://linkedin.com/in/bhanusreech) • [GitHub](https://github.com/BhanusreeChavvakula)
-
----
-
-## 🚀 About Me
-
-I am an analytical and results-driven **Business Analyst** with a strong background in healthcare IT, data analytics, and project management. With hands-on experience in both Agile and Waterfall environments, I specialize in translating complex business needs into actionable, scalable, and compliant technology solutions.
+🎯 Associate Technical Project Manager | Business Analyst | AI + Analytics Enthusiast  
+📍 Based in USA 🇺🇸 | Actively seeking PM roles
+📧 bcvvkla@gmail.com | 📞 +91 7816020162 (IN) | 📞 +1 901-210-8964 (USA)  
+🔗 [LinkedIn](https://linkedin.com/in/bhanusreech) | 💻 [Portfolio Projects Below](#-highlight-projects)
 
 ---
 
-## 🧠 Core Competencies
+## 👩‍💻 About Me
 
-- **Business Analysis:** Requirements Gathering, Functional Specs, User Stories, Stakeholder Management  
-- **Healthcare Tech:** EMR, FHIR, HIPAA Compliance, Healthcare Data Governance  
-- **Project Tools:** Jira, Confluence, GRID, Trello, SDLC  
-- **Programming:** Python, SQL, SAS, HTML  
-- **Data Viz & BI:** Power BI, Tableau, Excel, DAX, Power Query  
-- **Data Ops:** ETL, RDBMS, Data Cleaning, KPI Design  
-- **Statistical Analysis:** A/B Testing, Hypothesis Testing, Regression  
+I’m a results-driven **Associate Technical Project Manager** with 4.5+ years of experience delivering end-to-end software and data projects across **healthcare, procurement, and AI-driven systems**. I bridge business needs and tech execution, managing cross-functional Agile teams, automating processes, and deploying insightful dashboards using Power BI, SQL, and Python.
+
+My project leadership experience spans Jira, Confluence, Azure, ERP integrations, and machine learning models – all designed to create scalable, high-impact outcomes.
+
+📚 **PMP certification in progress** | 🎓 MS in Information Systems – University of Memphis
 
 ---
 
-## 💼 Experience
+## 🧰 Tech & Tools
 
-### 🔹 UMRF Ventures | *Business Analyst*  
-**Jul 2024 – Present**
-- Led FHIR and EMR integration initiatives, improving data exchange efficiency by 25%.
-- Ensured HIPAA compliance, reducing data privacy risks by 30%.
-- Managed Agile backlogs and sprint planning using GRID and Jira.
-- Supported healthcare data governance and Waterfall-based documentation processes.
-
-### 🔹 Ascension Health | *Business Analyst*  
-**Aug 2023 – Feb 2024**
-- Facilitated scope and change management for IT projects.
-- Extracted and cleaned large datasets using SQL, Python, and Excel.
-- Improved sprint efficiency by 25% by standardizing Jira and Confluence workflows.
-- Developed user stories, BRDs, and interactive dashboards.
-
-### 🔹 University of Memphis | *Student Research Assistant*  
-**Dec 2022 – May 2023**
-- Built Power BI dashboards for research insights.
-- Conducted EDA and statistical analysis using Python and SQL.
-- Documented analytics workflows using Waterfall methodology.
-
-### 🔹 Infelearn | *Business Analyst*  
-**Jul 2020 – Aug 2022**
-- Integrated third-party data sources into centralized data warehouses.
-- Led stakeholder communication, risk mitigation, and requirements gathering.
-- Participated in solution testing, onboarding support, and compliance documentation.
-
-### 🔹 Reliance Industries | *Business Analyst*  
-**Jan 2020 – May 2020**
-- Improved recruitment workflows using ATS data analysis.
-- Documented process flows and SOPs for system rollouts.
-- Utilized Visio, Excel, and Confluence for stakeholder collaboration.
+- **Project Management**: Jira, Confluence, GRID, Trello, SDLC, Agile/Scrum
+- **BI & Visualization**: Power BI, Tableau, Excel (VBA, Macros), Looker
+- **Languages**: Python, SQL, HTML, SAS
+- **Cloud & DevOps**: Azure DevOps, ADF, CI/CD, AWS, ServiceNow
+- **Analytics**: Regression, Hypothesis Testing, A/B Testing, KPI Design
+- **ERP/HR Systems**: SAP, Workday, Oracle ERP, SuccessFactors
+- **Data Tools**: DAX, Power Query, RDBMS, ETL pipelines
 
 ---
 
-## 📂 Featured Projects
+## 🏆 Highlight Projects
 
-### 🏥 Patient Risk Prediction (Feb 2024)
-- Built a predictive model using Random Forest & Logistic Regression.
-- Processed raw healthcare data with Python and SQL.
-- Delivered insights via Power BI to optimize treatment strategies.
+### 📌 Patient Risk Prediction (Healthcare AI)
+- Built ML model (Random Forest, Logistic Regression) with 85% accuracy to detect high-risk patients
+- Developed Power BI dashboards for clinicians, improving patient outcomes and readmission visibility
 
-### 🚚 Transportation Optimization System (May 2024)
-- Designed a logistics platform with real-time route planning algorithms.
-- Reduced delivery time by 25% using IoT data integration.
+### 🚚 Transportation Optimization System
+- Designed real-time logistics engine using IoT + analytics to reduce delivery time by 25%
+- Implemented Azure-integrated dashboards to track efficiency and performance
 
-### 📊 Car Insurance Claim Prediction (Dec 2023)
-- Created predictive models with SAS and Python.
-- Visualized claim trends and drivers in Tableau.
+### 📊 Procurement Analytics Dashboard
+- Created executive dashboards in Power BI to track KPIs like supplier lead time, spend variance
+- Helped reduce sourcing delays by 30% using real-time analytics and reporting
 
-### 🏥 Healthcare Process Optimization (May 2024)
-- Balanced Agile sprints with Waterfall documentation using GRID.
-- Enhanced compliance tracking and iterative improvement.
+### 🧠 Employee Engagement Insights (SPSS)
+- Conducted factor analysis and regression on employee feedback data
+- Identified key engagement drivers to improve HR strategies
+
+> 📂 View detailed case studies and notebooks in individual repositories (coming soon)
 
 ---
 
 ## 🎓 Education & Certifications
 
-**Master of Science, Information Systems**  
-*University of Memphis (2022 – 2024)*  
-> GPA: 3.8 / 4.0
-
-**Certifications:**
-- Power BI Data Analyst Associate – Microsoft (2024)
-- AWS Certified Data Analytics – AWS (2025)
-- Advanced SQL – HackerRank (2025)
-- Jira – Coursera (2024)
-- Business Project Management – UofM (2024)
+- **M.S. Information Systems** – University of Memphis (2024)
+- **PMP Certification** – In Progress (Expected Aug 2025)
+- **Power BI Data Analyst** – Microsoft Certified (2024)
+- **AWS Certified Data Analytics** – (2025)
+- **Advanced SQL** – HackerRank
 
 ---
 
-## 📈 Let's Collaborate
+## 🌱 Currently Working On
 
-If you're working on **data-driven solutions**, **healthcare platforms**, or need support with **business analysis for AI/analytics projects**, feel free to connect!
+- Enhancing ERP integration pipelines with automation and advanced BI
+- Preparing for PMP certification & building reusable AI dashboards for procurement
+- Contributing to open-source analytics tools and data visualization templates
 
-📬 **bchvvkla@gmail.com**  
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out for **collaborations, opportunities, or mentoring**!
+
+📧 bcvvkla@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/bhanusreech)  
-🌐 [GitHub](https://github.com/BhanusreeChavvakula)
+🌐 [GitHub Portfolio](https://github.com/BhanusreeChavvakula)
+
+---
+
+
 
