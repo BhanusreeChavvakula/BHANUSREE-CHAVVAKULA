@@ -1,83 +1,79 @@
-# 👋 Hi, I'm Bhanusree Chavvakula
-
-🎯 Technical Project Co-ordinator | Business Analyst | AI + Analytics Enthusiast  
-📍 Based in USA 🇺🇸 | Actively seeking PM roles
-📧 bcvvkla@gmail.com | 📞 +91 7816020162 (IN) | 📞 +1 901-210-8964 (USA)  
-🔗 [LinkedIn](https://linkedin.com/in/bhanusreech) | 💻 [Portfolio Projects Below](#-highlight-projects)
+# Bhanusree Chavvakula  
+📧 [bchvvkla@gmail.com](mailto:bchvvkla@gmail.com) | 📞 +91 7816020162 / +1 (901) 210-8964  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhanusreech) | 💻 [GitHub](https://github.com/BhanusreeChavvakula)
 
 ---
 
-## 👩‍💻 About Me
-
-I’m a results-driven **Technical Project Co-ordinator** with 4.5+ years of experience delivering end-to-end software and data projects across **healthcare, procurement, and AI-driven systems**. I bridge business needs and tech execution, managing cross-functional Agile teams, automating processes, and deploying insightful dashboards using Power BI, SQL, and Python.
-
-My project leadership experience spans Jira, Confluence, Azure, ERP integrations, and machine learning models – all designed to create scalable, high-impact outcomes.
-
-📚 **PMP certification in progress** | 🎓 MS in Information Systems – University of Memphis
+## 🚀 About Me  
+I’m a **strategic and analytical Business Analyst** passionate about turning complex data into clear, actionable insights. With 3+ years navigating healthcare, banking, and analytics landscapes, I excel at designing smart data pipelines, crafting ETL workflows, and building real-time dashboards using **SQL, Power BI, and Python**. I thrive in Agile teams, bridging the gap between business needs and technical solutions to drive impactful outcomes.
 
 ---
 
-## 🧰 Tech & Tools
+## 💼 Professional Journey  
 
-- **Project Management**: Jira, Confluence, GRID, Trello, SDLC, Agile/Scrum
-- **BI & Visualization**: Power BI, Tableau, Excel (VBA, Macros), Looker
-- **Languages**: Python, SQL, HTML, SAS
-- **Cloud & DevOps**: Azure DevOps, ADF, CI/CD, AWS, ServiceNow
-- **Analytics**: Regression, Hypothesis Testing, A/B Testing, KPI Design
-- **ERP/HR Systems**: SAP, Workday, Oracle ERP, SuccessFactors
-- **Data Tools**: DAX, Power Query, RDBMS, ETL pipelines
-
----
-
-## 🏆 Highlight Projects
-
-### 📌 Patient Risk Prediction (Healthcare AI)
-- Built ML model (Random Forest, Logistic Regression) with 85% accuracy to detect high-risk patients
-- Developed Power BI dashboards for clinicians, improving patient outcomes and readmission visibility
-
-### 🚚 Transportation Optimization System
-- Designed real-time logistics engine using IoT + analytics to reduce delivery time by 25%
-- Implemented Azure-integrated dashboards to track efficiency and performance
-
-### 📊 Procurement Analytics Dashboard
-- Created executive dashboards in Power BI to track KPIs like supplier lead time, spend variance
-- Helped reduce sourcing delays by 30% using real-time analytics and reporting
-
-### 🧠 Employee Engagement Insights (SPSS)
-- Conducted factor analysis and regression on employee feedback data
-- Identified key engagement drivers to improve HR strategies
-
-> 📂 View detailed case studies and notebooks in individual repositories (coming soon)
+### Bank of America | *Business Analyst*  
+_Remote, USA | Jul 2024 – Present_  
+- Spearheaded the **Advisor Insights & Performance Analytics** project, crafting complex SQL ETL pipelines spanning 5+ platforms — slashing report delivery times by **50%**.  
+- Designed intuitive **Power BI dashboards** tracking AUM trends and advisor KPIs, empowering portfolio strategies that boosted advisory success by **15%**.  
+- Served as the bridge between stakeholders and architects, aligning business vision with tech execution and cutting miscommunication by **30%**.  
+- Facilitated workshops that prioritized requirements, streamlining development and reducing change requests by **35%**.
 
 ---
 
-## 🎓 Education & Certifications
-
-- **M.S. Information Systems** – University of Memphis (2024)
-- **PMP Certification** – In Progress (Expected Aug 2025)
-- **Power BI Data Analyst** – Microsoft Certified (2024)
-- **AWS Certified Data Analytics** – (2025)
-- **Advanced SQL** – HackerRank
-
----
-
-## 🌱 Currently Working On
-
-- Enhancing ERP integration pipelines with automation and advanced BI
-- Preparing for PMP certification & building reusable AI dashboards for procurement
-- Contributing to open-source analytics tools and data visualization templates
+### United Health Group | *Business Analyst*  
+_Hybrid, USA | Aug 2023 – Jun 2024_  
+- Partnered with clinical, IT, product, and vendor teams to capture detailed business and clinical requirements, enhancing claims accuracy and standardization.  
+- Analyzed healthcare utilization with **SQL & Python**, revealing that 20% of patients drove 80% of costs — directing focus on high-impact interventions.  
+- Developed **Power BI dashboards** for real-time care gap monitoring and compliance, enabling proactive leadership decisions.  
+- Automated critical reports, trimming manual workloads by **40%** and elevating audit readiness.
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education  
 
-Feel free to reach out for **collaborations, opportunities, or mentoring**!
+### University of Memphis  
+M.S. in Information Systems | Aug 2022 – May 2024  
+- Focus: IT, Project Management, Data Analytics, Machine Learning, AI  
+- GPA: 3.8/4.0  
 
-📧 bcvvkla@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/bhanusreech)  
-🌐 [GitHub Portfolio](https://github.com/BhanusreeChavvakula)
+### Vignan’s University  
+BBA in Human Resources | Jun 2019 – May 2022  
+- Coursework: HR, Finance, Marketing, Analytics  
+- GPA: 8.9/10.0  
 
 ---
 
+## 🔍 Projects  
 
+### Transportation Optimization System (May 2024)  
+- Built ML-driven logistics routing models that cut delivery times by **25%** via predictive scoring and clustering algorithms.
 
+### Car Insurance Claiming (Dec 2023)  
+- Created Python and SAS predictive models forecasting claim probabilities with **85% accuracy**; visualized risks with **Tableau**.
+
+### Employee Engagement Analysis (Apr 2022)  
+- Conducted statistical analysis in **SPSS** to uncover the key drivers behind employee satisfaction and engagement.
+
+---
+
+## 📜 Certifications  
+
+- **Advanced SQL** — HackerRank (May 2025)  
+- **Power BI Data Analyst Associate** — Microsoft (Jun 2024)  
+- **Business Project Management** — University of Memphis (May 2024)  
+
+---
+
+## 🛠️ Skills  
+
+**Technical:** SQL (Advanced), Power BI, Python (Pandas, NumPy, Matplotlib), Machine Learning (Supervised & Unsupervised), Tableau, SAS, SPSS, R, Snowflake (Beginner), JIRA, Confluence, MS Office  
+
+**Analytics:** Data Modeling, ETL Design, KPI Development, Exploratory Data Analysis, Reporting Automation, BRD/FSD Authoring, Statistical Inference, A/B Testing  
+
+**Soft Skills:** Cross-functional Collaboration, Stakeholder Management, Agile Methodologies, Strategic Planning, Risk Mitigation, Communication & Executive Reporting  
+
+---
+
+> “Data is the new oil, and I love being the refinery — transforming raw numbers into gold.”  
+>
+> — Bhanusree Chavvakula
