@@ -21,7 +21,7 @@ _Remote, USA | Jul 2024 – Present_
 ---
 
 ### United Health Group | *Business Analyst*  
-_Hybrid, USA | Aug 2023 – Jun 2024_  
+_Hybrid, USA | Jul 2023 – Jun 2024_  
 - Partnered with clinical, IT, product, and vendor teams to capture detailed business and clinical requirements, enhancing claims accuracy and standardization.  
 - Analyzed healthcare utilization with **SQL & Python**, revealing that 20% of patients drove 80% of costs — directing focus on high-impact interventions.  
 - Developed **Power BI dashboards** for real-time care gap monitoring and compliance, enabling proactive leadership decisions.  
